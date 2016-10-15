@@ -1,4 +1,4 @@
-#Java Project
+#Interfaces Project
 
 *Java Project which contains a simple Java Application*
 
