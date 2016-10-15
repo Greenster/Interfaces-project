@@ -1,6 +1,6 @@
 #Interfaces Project
 
-*Java Project which contains a simple Java Application*
+*Interfaces Project Java Application*
 
 * Java 7
 * Eclipse
